@@ -1,0 +1,14 @@
+{
+  "name": "albertolive-skills",
+  "owner": {
+    "name": "albertolive"
+  },
+  "description": "Skills de Claude Code mantinguts per albertolive.",
+  "plugins": [
+    {
+      "name": "catalan-natural",
+      "source": "./plugins/catalan-natural",
+      "description": "Escriu i revisa text en català correcte i natural (anti-catalanglish): castellanismes, calcs de l'anglès, pronoms febles, puntuació, accentuació i format de moneda."
+    }
+  ]
+}

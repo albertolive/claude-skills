@@ -1,0 +1,22 @@
+{
+  "name": "catalan-natural",
+  "version": "1.0.0",
+  "description": "Escriu i revisa text en català correcte i natural (anti-catalanglish): castellanismes i barbarismes, calcs de l'anglès, pronoms febles, per/per a, gerundi de posterioritat, diacrítics, apostrofació, puntuació, accentuació i format de moneda.",
+  "author": {
+    "name": "albertolive"
+  },
+  "homepage": "https://github.com/albertolive/claude-skills",
+  "repository": "https://github.com/albertolive/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "catala",
+    "catalan",
+    "llengua",
+    "language",
+    "linguistics",
+    "localization",
+    "i18n",
+    "writing",
+    "proofreading"
+  ]
+}
