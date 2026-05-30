@@ -8,7 +8,17 @@ description: >
   missatges, comentaris. S'activa quan generes o revises text català, o quan
   l'usuari diu "millora el català", "sona traduït", "catalanglish", "revisa el
   text en català", "fes-ho més natural". També invocable amb /catalan-natural.
-trigger: /catalan-natural
+version: 1.0.0
+author: albertolive
+license: MIT
+tags:
+  - catala
+  - catalan
+  - language
+  - linguistics
+  - writing
+  - localization
+  - proofreading
 ---
 
 # català natural
